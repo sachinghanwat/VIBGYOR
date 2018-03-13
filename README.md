@@ -1,0 +1,2 @@
+# VIBGYOR
+VIBGYOR assignment
